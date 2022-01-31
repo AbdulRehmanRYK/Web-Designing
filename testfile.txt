@@ -6,4 +6,6 @@ cherry
 mango 
 cereo
 orange 
+guava 
+pineapple
 
